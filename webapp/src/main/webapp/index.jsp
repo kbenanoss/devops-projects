@@ -40,7 +40,7 @@
     
        <h1> Thank you, Happy Learning </h1>
        <em>
-          Officer: Anani Koumadi
+          Officer: Anani Mawuko Koumadi
        </em>
     
       
