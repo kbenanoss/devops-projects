@@ -8,7 +8,7 @@
     <form action="action_page.php">
       <div class="container">
         <h1>Register for DevOps Training</h1>
-        <p>Please fill in this form to create an account.</p>
+        <p style="color: red;">Please all fields are required.</p>
         <hr>
          
         <label for="Name"><b>Enter Name</b></label>
