@@ -8,7 +8,7 @@
     <form action="action_page.php">
       <div class="container">
         <h1>Register for DevOps Session</h1>
-        <p style="color: rgb(205, 138, 138);">Please all fields are required.</p>
+        <p style="color: rgb(4, 59, 4);">Please all fields are required.</p>
         <hr>
          
         <label for="Name"><b>Enter Name</b></label>
