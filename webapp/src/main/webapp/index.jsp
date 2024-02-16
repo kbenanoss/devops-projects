@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Login Form</title>
+    <title>Register Form</title>
   </head>
 
   <body>
     <form action="action_page.php">
       <div class="container">
-        <h1>Register for DevOps Training</h1>
+        <h1>Register for DevOps Session</h1>
         <p style="color: red;">Please all fields are required.</p>
         <hr>
          
