@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Register Form</title>
+    <title>Visitor Register Form</title>
   </head>
 
   <body>
@@ -9,45 +9,81 @@
       <div class="container">
         <h1>Register for DevOps Session</h1>
         <p style="color: rgb(4, 59, 4);">Please all fields are required.</p>
-        <hr>
-         
+        <hr />
+
         <label for="Name"><b>Enter Name</b></label>
-        <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-        <br>
+        <input
+          type="text"
+          placeholder="Enter Full Name"
+          name="Name"
+          id="Name"
+          required
+        />
+        <br />
         <label for="Dob"><b>Enter Date of birth</b></label>
-        <input type="text" placeholder="Date of birth" name="dob" id="dob" required>
-        <br>
+        <input
+          type="text"
+          placeholder="Date of birth"
+          name="dob"
+          id="dob"
+          required
+        />
+        <br />
         <label for="mobile"><b>Enter mobile</b></label>
-        <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
-        <br>
-    
+        <input
+          type="text"
+          placeholder="Enter mobile number"
+          name="mobile"
+          id="mobile"
+          required
+        />
+        <br />
+
         <label for="email"><b>Enter Email</b></label>
-        <input type="text" placeholder="Enter Email" name="email" id="email" required>
-        <br>
-    
+        <input
+          type="text"
+          placeholder="Enter Email"
+          name="email"
+          id="email"
+          required
+        />
+        <br />
+
         <label for="psw"><b>Password</b></label>
-        <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-        <br>
-    
+        <input
+          type="password"
+          placeholder="Enter Password"
+          name="psw"
+          id="psw"
+          required
+        />
+        <br />
+
         <label for="psw-repeat"><b>Repeat Password</b></label>
-        <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-        <hr>
-        <br>
-        <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+        <input
+          type="password"
+          placeholder="Repeat Password"
+          name="psw-repeat"
+          id="psw-repeat"
+          required
+        />
+        <hr />
+        <br />
+        <p>
+          By creating an account you agree to our
+          <a href="#">Terms & Privacy</a>.
+        </p>
         <button type="submit" class="registerbtn">Register</button>
       </div>
-      <br>
+      <br />
       <div class="container signin">
         <p>Already have an account? <a href="#">Sign in</a>.</p>
       </div>
-    
-       <h1> Thank you, Happy Learning </h1>
-       <em>
-          Officer: Anani Mawuko Koumadi
-       </em>
-    
-      
+
+      <h1>Thank you, Happy Learning</h1>
+      <em>
+        Officer: Anani Mawuko Koumadi
+      </em>
     </form>
-    
   </body>
 </html>
